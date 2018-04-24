@@ -49,8 +49,7 @@ export default {
 <style>
 
 h1,p,h2,h3,li,a {
-    font-family: "Source Sans Pro", "Lucida Grande", sans-serif;
-
+    font-family: "Source Sans Pro", "Lucida Grande", "Microsoft YaHei", sans-serif;
     
 }
 h1 {
