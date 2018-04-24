@@ -98,7 +98,7 @@
           <v-layout column align-center justify-center>
 
             <div class="headline black--text mb-3 text-xs-center">如何使用</div>
-            <p class="headline black--text mb-3 text-xs-center">通过求是潮npm源安装一个包</p>
+            <p class="headline black--text mb-3 text-xs-center">通过求是潮npm源安装一个包</p>
             <pre v-highlightjs="sourcecode">
             <code class="bash">
    npm install koa --registry=https://npm.zjuqsc.com  
