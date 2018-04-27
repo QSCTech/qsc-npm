@@ -48,7 +48,7 @@ export default {
 
 <style>
 
-h1,p,h2,h3,li,a {
+h1,p,h2,h3,li,a,table,tr {
     font-family: "Source Sans Pro", "Lucida Grande", sans-serif;
     
 }
@@ -59,7 +59,10 @@ h1 {
 h2 {
     font-size: 30px;
 }
-p,li {
+h3 {
+    font-size: 24px;
+}
+p,li,table {
     font-size: 18px;
     margin-top: 16px;
     margin-bottom: 16px;
