@@ -60,8 +60,8 @@ export default {
                 api.search(to.params.name).then(res => {
                     this.searchpackages = res.data;
                     this.loaded = true;
-                    console.log(res.data);
-                })
+                    // console.log(res.data);
+                });
             } else {
                 this.$router.push({name: 'list'});
                 this.searchpackages = [];
